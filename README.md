@@ -13,6 +13,7 @@ Maintainer: Hyunwook Koh <hyunwook.koh@stonybrook.edu>
 Description: This R package provides facilities for OmniK to conduct kernel machine regression analysis analysis for jointly testing main and interaction effects.
 
 Depends: R(>= 4.1.1)
+
 License: GPL-2
 
 NeedsCompilation: no
