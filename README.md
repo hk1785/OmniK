@@ -67,6 +67,11 @@ library('OmniK')
 ```
 Example 1: Gut microbiome (Yanai et al., 2024, Nat Commun)
 ```
+data(gut.Ds)
+data(gut.meta)
+data(gut.otu.tab)
+data(gut.tree)
+
 gut.Ks <- lapply(gut.Ds, FUN = function(d) D.to.K(d))
 
 Y <- gut.meta$body.weight
@@ -83,6 +88,11 @@ gut.out$OmniK.pval
 ```
 Example 2: Oral microbiome (Park et al., 2023, BMC Microbiology)
 ```
+data(oral.Ds)
+data(oral.meta)
+data(oral.otu.tab)
+data(oral.tree)
+
 oral.Ks <- lapply(oral.Ds, FUN = function(d) D.to.K(d))
 
 Y <- oral.meta$gingival.inflammation
