@@ -77,7 +77,7 @@ set.seed(521)
 gut.out <- OmniK(Y = Y, Tr = Tr, Z = Z, Ks = gut.Ks, out.type = "continuous", n.perm = 3000) 
 
 gut.out$pvals.input.kernels
-gut.out$pval.endogenous.kernels
+gut.out$pvals.endogenous.kernels
 gut.out$OmniK.pval
 ```
 Example 2: Oral microbiome (Park et al., 2023, BMC Microbiology)
@@ -93,6 +93,6 @@ set.seed(521)
 oral.out <- OmniK(Y = Y, Tr = Tr, Z = Z, Ks = oral.Ks, out.type = "binary", n.perm = 3000) 
 
 oral.out$pvals.input.kernels
-oral.out$pval.endogenous.kernels
+oral.out$pvals.endogenous.kernels
 oral.out$OmniK.pval
 ```
