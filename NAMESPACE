@@ -1,0 +1,2 @@
+export("D.to.K", "gut.Ds", "gut.meta", "gut.otu.tab", "gut.tree",
+       "OmniK", "oral.Ds", "oral.meta", "oral.otu.tab", "oral.tree")

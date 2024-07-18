@@ -1,0 +1,15 @@
+Package: OmniK
+Version: 1.0
+Date: 2024-07-18
+Title: A general kernel machine regression framework using principal component analysis for jointly testing main and interaction effects
+Author: Hyunwook Koh 
+Maintainer: Hyunwook Koh <hyunwook.koh@stonybrook.edu>
+Description: This R package provides facilities for OmniK to conduct kernel machine regression analysis analysis for jointly testing main and interaction effects.
+Depends: R(>= 4.1.1)
+License: GPL-2
+NeedsCompilation: no
+URL: https://github.com/hk1785/OmniK
+
+
+
+
