@@ -1,6 +1,6 @@
 # OmniK
 
-Title: A general kernel machine regression framework using principal component analysis for jointly testing main and interaction effects
+Title: A general kernel machine regression framework for jointly testing main and interaction effects
 
 Version: 1.0
 
