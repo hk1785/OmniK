@@ -22,7 +22,7 @@ URL: https://github.com/hk1785/OmniK
 
 ## Reference
 
-* Koh H. A general kernel machine regression framework using principal component analysis for jointly testing main and interaction effects. (_In Review_)
+* Koh, H. (2024) A general kernel machine regression framework using principal component analysis for jointly testing main and interaction effects: Applications to human microbiome studies. _NAR Genomics & Bioinformatics_, 6(4), lqae148. 
 
 ## Troubleshooting Tips
 
